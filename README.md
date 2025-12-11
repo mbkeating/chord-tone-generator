@@ -8,7 +8,7 @@ Update the main function in `src/process_progression.py` with your chord progres
 
 ## Paper
 
-This engine will be presented at ICMC2025 in June.
+This engine will be presented at ICMC2025 in June. Paper postprint https://arxiv.org/pdf/2510.19666
 
 ### Paper Abstract
 
